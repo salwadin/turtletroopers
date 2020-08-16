@@ -1,0 +1,80 @@
+body{
+  background-color: #CCF4F7
+}
+
+.title {
+  font-family: jokerman;
+  color: darkgreen;
+  font-size: 30px;
+}
+
+a:link{
+ color: rgb(250, 172, 146) 
+}
+
+a:hover{
+ color: blueviolet
+}
+
+
+a{
+  font-family: candara
+}
+
+.subtitle {
+  font-family: jokerman;
+  color:  blueviolet;
+  font-size: 20px
+}
+
+p {
+  font-family: candara
+}
+
+.caption {
+  color: rgb(250, 172, 146);
+  font-style: italic;
+  font-size: small;
+}
+
+.credits {
+  color: white;
+  font-size: small;
+  font-style: italic;
+  font-family: candara
+}
+
+
+
+.bubble {
+  height: 25px;
+  width: 25px;
+  background-color: rgba(158, 144, 219, 0.39);
+  border-radius: 50px;
+  display: inline-block;
+}
+
+
+img{
+  max-width: 70%;
+  height: auto;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+h1{
+  text-align: center;
+  background-color: white;
+  font-family: jokerman;
+  color: darkgreen;
+
+}
+
+li{
+  list-style-type: square;
+  text-align: left
+}
